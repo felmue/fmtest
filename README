@@ -15,3 +15,7 @@ Hallo mein kleiner Test.
 Add more text in master.
 More to the branch.
 
+
+
+This was added after merging with local master, so it should not give a conflict.
+
